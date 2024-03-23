@@ -1,1 +1,1 @@
-# Snake-Water-Gun-Game-using-python
+# Rock-Paper-Scissors-Game-using-python
